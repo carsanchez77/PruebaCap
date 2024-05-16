@@ -8,7 +8,7 @@ namespace PartsUnlimited.Models
 {
     public class CartItem
     //primer cambio
-    //Segundo cambio
+    //Segundo cambio para otro Commit
     {
         [Key]
         public int CartItemId { get; set; }
