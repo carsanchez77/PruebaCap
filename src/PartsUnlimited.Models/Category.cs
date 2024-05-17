@@ -6,7 +6,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
-    public class Category //Local//
+    public class Category //Local// //Nube//
     {
         public int CategoryId { get; set; }
 
