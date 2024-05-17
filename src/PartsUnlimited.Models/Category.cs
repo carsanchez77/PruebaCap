@@ -3,12 +3,13 @@
 
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-//Aca estoy haciendo otro cambio que va a generar un conflicto
+
+//Este comentario es para la linea 6
+//Este es para la linea 7
 namespace PartsUnlimited.Models
 {
-    // estamos agregando mas Pull Request
+    public class Category //Local// //Nube//
     
-    public class Category
     {
         public int CategoryId { get; set; }
 
