@@ -10,7 +10,11 @@ namespace PartsUnlimited.Models
 //Comentario para la linea 10 para ver si queda en desarrollo al hacer el merge
 {
     public class Category //Local// //Nube//
+<<<<<<< HEAD
+    //se crea el conflicto
+=======
     
+>>>>>>> 5c22046c574d2049f96b4f3d709fa1a27591faa4
     {
         public int CategoryId { get; set; }
 
