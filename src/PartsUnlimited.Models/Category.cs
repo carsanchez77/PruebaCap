@@ -8,6 +8,7 @@ using System.ComponentModel.DataAnnotations;
 namespace PartsUnlimited.Models
 {
     public class Category //Local// //Nube//
+    //se crea el conflicto
     {
         public int CategoryId { get; set; }
 
